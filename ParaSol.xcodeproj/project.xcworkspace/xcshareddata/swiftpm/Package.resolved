@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "acheron",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:aepryus/Acheron.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "efcc5cb6b5a8fdb5565b0dd2e0e96411eaf0bbb9"
+      }
+    }
+  ],
+  "version" : 2
+}
